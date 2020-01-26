@@ -1,1 +1,1 @@
-otosigen.github.io/Tesla-Landing/
+http://otosigen.github.io/Tesla-Landing/
