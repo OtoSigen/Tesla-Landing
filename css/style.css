@@ -1,0 +1,12 @@
+@import "header.css";
+@import "firstSection.css";
+@import "secondSection.css";
+@import "thirdSection.css";
+
+body {
+    font-family: 'Montserrat';
+    max-width: 1440px;
+    min-width:320px;
+    margin: auto;
+}
+
